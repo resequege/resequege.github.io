@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://resequege.github.io/sitemap
+Sitemap: https://resequege.github.io/app/sitemap
+Sitemap: https://resequege.github.io/assets/sitemap
+Sitemap: https://resequege.github.io/css/sitemap
+Sitemap: https://resequege.github.io/includes/sitemap
+Sitemap: https://resequege.github.io/item/sitemap
+Sitemap: https://resequege.github.io/src/sitemap
